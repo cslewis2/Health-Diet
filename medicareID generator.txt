@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+given schema, can medicare ids be generated??? I think so
+
+what I know: letters o/O,s/S,i/I and l/L are not alowed at all
+string length ==11 characters may contain numbers and letters.
+
+
+a=is phab in alphabet
+print(1)
