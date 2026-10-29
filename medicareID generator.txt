@@ -2,14 +2,15 @@
 
 
 
-
-
-
+Medicare ID facts
+moved from numerics a while ago after catastrophic data breach. 
+centered on pseudorandom combos of letters and numbers with the following exception:
 given schema, can medicare ids be generated??? I think so
 
-what I know: letters o/O,s/S,i/I and l/L are not alowed at all
+1. letters o/O,s/S,i/I and l/L are not alowed at all
 string length ==11 characters may contain numbers and letters.
-
+2. Is it a letter or numer leading?
+3. No special characters
 
 a=is phab in alphabet
 print(1)
